@@ -3,7 +3,7 @@
 ## Budeme programovat více aplikací
     - Předmět nebude náročný
     - Pracovat v týmu
-    - Prezetace co jsme dělali (Jaké problémy jsme řešili, Jak jsme si s nimi poradili)
+    - Prezetace co jsme dělali (Jaké problémy jsme řešili, Jak jsme si s nimi poradili); Přehledný, Okomentovaný a responzivní kód
     - Zápočtový test
-    - Přehledný, Okomentovaný a responzivní kód
+    - SP - 
     - Android Studio
