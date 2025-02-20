@@ -7,3 +7,5 @@
     - Zápočtový test
     - SP - 
     - Android Studio
+
+## Tým: Standa, Petr, Ondra neboli SPO(rt) ID: T10
